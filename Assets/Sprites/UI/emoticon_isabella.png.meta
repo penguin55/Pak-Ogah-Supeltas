@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 02da4bb1059326b47aab18db9559c9a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3947829547329067633
+    second: emoticon_isabella_0
+  - first:
+      213: -1691700999943483622
+    second: emoticon_isabella_1
+  - first:
+      213: 8950472405888927850
+    second: emoticon_isabella_2
+  - first:
+      213: 7682691170806015612
+    second: emoticon_isabella_3
+  - first:
+      213: 5755141306630246868
+    second: emoticon_isabella_4
+  - first:
+      213: 6410764478612616282
+    second: emoticon_isabella_5
+  - first:
+      213: 5405640929570201076
+    second: emoticon_isabella_6
+  - first:
+      213: 8634469193490565945
+    second: emoticon_isabella_7
+  - first:
+      213: 8732893967130606038
+    second: emoticon_isabella_8
+  - first:
+      213: 3217009508252387696
+    second: emoticon_isabella_9
+  - first:
+      213: -2808300208299023525
+    second: emoticon_isabella_10
+  - first:
+      213: -8226630916954352128
+    second: emoticon_isabella_11
+  - first:
+      213: 4163927967503455873
+    second: emoticon_isabella_12
+  - first:
+      213: -8220884405446835257
+    second: emoticon_isabella_13
+  - first:
+      213: 4901720699086971396
+    second: emoticon_isabella_14
+  - first:
+      213: 5541215113118243110
+    second: emoticon_isabella_15
+  - first:
+      213: -1278887647541745680
+    second: emoticon_isabella_16
+  - first:
+      213: -7599918602978529279
+    second: emoticon_isabella_17
+  - first:
+      213: 1636325113458702424
+    second: emoticon_isabella_18
+  - first:
+      213: -5201527910938828483
+    second: emoticon_isabella_19
+  - first:
+      213: -4936050240529888929
+    second: emoticon_isabella_20
+  - first:
+      213: -69456992258052995
+    second: emoticon_isabella_21
+  - first:
+      213: -1134296722113004004
+    second: emoticon_isabella_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emoticon_isabella_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b20a7129dfcd4297a8ba9bd9c4aff
+      internalID: -3947829547329067633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a2300fce002b45948b3f698a2d1af
+      internalID: -1691700999943483622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda1b10cdb12a8e4fbd53c11db65fe72
+      internalID: 8950472405888927850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074cf62b15f0e445a9c9b32af627e29
+      internalID: 7682691170806015612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd96f4c8a8471d34097192ffb6e0fb85
+      internalID: 5755141306630246868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddda83faf5a5844d8906a9295a1b607
+      internalID: 6410764478612616282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e79823453f0c4d9f8dba37ce00912
+      internalID: 5405640929570201076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b97450684d384094c0aace7a25e07
+      internalID: 8634469193490565945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb36dca4bb1aa439f95d3ddeff2c32
+      internalID: 8732893967130606038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62443e2557aac5d428fef49842b24fd4
+      internalID: 3217009508252387696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31bffe3db5d0ce40b46ed63d535806a
+      internalID: -2808300208299023525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce9ed9ca6224e6429026a666808f36a
+      internalID: -8226630916954352128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e17db4983c09bf4c9107bae173a756e
+      internalID: 4163927967503455873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6ea54cf0113d4a9f6b4de6c9b5eb5
+      internalID: -8220884405446835257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 36
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c6f3fe924641b46809b1c415028ec5
+      internalID: 4901720699086971396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f14886d68ef464bb8f6557af4a5075
+      internalID: 5541215113118243110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac89b6aba0281b449e9c98467bc4715
+      internalID: -1278887647541745680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8328ea78cfa6c849adf987402326ea8
+      internalID: -7599918602978529279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41123b1ee2debf4cac4bc1a3212bb1b
+      internalID: 1636325113458702424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8669807ff333d4b4fb42b13b4b4926d7
+      internalID: -5201527910938828483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed6841c1530284ba8c570d59ed3702
+      internalID: -4936050240529888929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef4ddc8906296c4cb4001b07e5ea424
+      internalID: -69456992258052995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoticon_isabella_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19af10e4cf61354eba7cb3f972aad16
+      internalID: -1134296722113004004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46c2458828167764cac90be1be5fbf62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

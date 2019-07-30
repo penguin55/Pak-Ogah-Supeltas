@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Car
   layers:
   - Default
   - TransparentFX
@@ -13,11 +14,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Traffic
+  - Road
+  - Vision
+  - Car
+  - Spawn
   - 
   - 
   - 
@@ -40,4 +41,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Particle
+    uniqueID: 1167769721
+    locked: 0
+  - name: UI
+    uniqueID: 3166985355
     locked: 0
